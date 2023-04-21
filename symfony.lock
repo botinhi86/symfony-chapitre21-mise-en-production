@@ -224,15 +224,15 @@
         ]
     },
     "symfony/mailer": {
-        "version": "4.3",
+        "version": "6.2",
         "recipe": {
             "repo": "github.com/symfony/recipes",
-            "branch": "master",
+            "branch": "main",
             "version": "4.3",
-            "ref": "c3bab0c981b79d4085e3b6734f7b5eebe35a0ca7"
+            "ref": "2bf89438209656b85b9a49238c4467bff1b1f939"
         },
         "files": [
-            "./config/packages/mailer.yaml"
+            "config/packages/mailer.yaml"
         ]
     },
     "symfony/maker-bundle": {
